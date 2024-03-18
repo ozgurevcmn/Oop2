@@ -10,7 +10,7 @@ This repository contains a collection of examples demonstrating various concepts
 
 2. **Inheritance**
     - Example 1: Animal Hierarchy (`Inheritance.cs`, `Dog.cs`, `Cat.cs`)
-    - Example 2: Shape Hierarchy (`Circle.cs`, `Rectangle.cs`, `Triangle.cs`, `Square.cs`)
+    - Example 2: Shape Hierarchy (`Circle.cs`)
     - Example 3: Family Tree (`Parent.cs`, `Child.cs`)
 
 3. **Generic Type**
