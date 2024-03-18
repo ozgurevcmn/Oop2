@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozgur\\source\\repos\\Oop2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD207D11-2DA6-4EAE-96AE-55E1DAE8B6F4}|Oop2\\Oop2.csproj|c:\\users\\ozgur\\source\\repos\\oop2\\oop2\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD207D11-2DA6-4EAE-96AE-55E1DAE8B6F4}|Oop2\\Oop2.csproj|solutionrelative:oop2\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD207D11-2DA6-4EAE-96AE-55E1DAE8B6F4}|Oop2\\Oop2.csproj|c:\\users\\ozgur\\source\\repos\\oop2\\oop2\\oop2examples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD207D11-2DA6-4EAE-96AE-55E1DAE8B6F4}|Oop2\\Oop2.csproj|solutionrelative:oop2\\oop2examples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD207D11-2DA6-4EAE-96AE-55E1DAE8B6F4}|Oop2\\Oop2.csproj|c:\\users\\ozgur\\source\\repos\\oop2\\oop2\\generictype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD207D11-2DA6-4EAE-96AE-55E1DAE8B6F4}|Oop2\\Oop2.csproj|solutionrelative:oop2\\generictype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD207D11-2DA6-4EAE-96AE-55E1DAE8B6F4}|Oop2\\Oop2.csproj|c:\\users\\ozgur\\source\\repos\\oop2\\oop2\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD207D11-2DA6-4EAE-96AE-55E1DAE8B6F4}|Oop2\\Oop2.csproj|solutionrelative:oop2\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD207D11-2DA6-4EAE-96AE-55E1DAE8B6F4}|Oop2\\Oop2.csproj|c:\\users\\ozgur\\source\\repos\\oop2\\oop2\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD207D11-2DA6-4EAE-96AE-55E1DAE8B6F4}|Oop2\\Oop2.csproj|solutionrelative:oop2\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encapsulation.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\source\\repos\\Oop2\\Oop2\\Encapsulation.cs",
+              "RelativeDocumentMoniker": "Oop2\\Encapsulation.cs",
+              "ToolTip": "C:\\Users\\ozgur\\source\\repos\\Oop2\\Oop2\\Encapsulation.cs",
+              "RelativeToolTip": "Oop2\\Encapsulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:49:08.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericType.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\source\\repos\\Oop2\\Oop2\\GenericType.cs",
+              "RelativeDocumentMoniker": "Oop2\\GenericType.cs",
+              "ToolTip": "C:\\Users\\ozgur\\source\\repos\\Oop2\\Oop2\\GenericType.cs",
+              "RelativeToolTip": "Oop2\\GenericType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:41:19.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oop2examples.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\source\\repos\\Oop2\\Oop2\\Oop2examples.cs",
+              "RelativeDocumentMoniker": "Oop2\\Oop2examples.cs",
+              "ToolTip": "C:\\Users\\ozgur\\source\\repos\\Oop2\\Oop2\\Oop2examples.cs",
+              "RelativeToolTip": "Oop2\\Oop2examples.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:16:38.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\source\\repos\\Oop2\\Oop2\\Inheritance.cs",
+              "RelativeDocumentMoniker": "Oop2\\Inheritance.cs",
+              "ToolTip": "C:\\Users\\ozgur\\source\\repos\\Oop2\\Oop2\\Inheritance.cs",
+              "RelativeToolTip": "Oop2\\Inheritance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:18:57.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Polymorphism.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\source\\repos\\Oop2\\Oop2\\Polymorphism.cs",
+              "RelativeDocumentMoniker": "Oop2\\Polymorphism.cs",
+              "ToolTip": "C:\\Users\\ozgur\\source\\repos\\Oop2\\Oop2\\Polymorphism.cs",
+              "RelativeToolTip": "Oop2\\Polymorphism.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:12:44.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
